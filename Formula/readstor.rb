@@ -7,10 +7,10 @@
 class Readstor < Formula
   desc "A CLI for Apple Books annotations"
   homepage "https://github.com/tnahs/readstor"
-  url "https://github.com/tnahs/readstor/releases/download/v0.1.1/readstor-mac.tar.gz"
-  sha256 "ab9ddf430e86d3d205ff2ee53f8d787e84cf18646cbc34723df43e29d04f1c0f"
+  url "https://github.com/tnahs/readstor/releases/download/v0.1.2/readstor-mac.tar.gz"
+  sha256 "683fba87842c0330ab1a316bc32cb8ad407f67b2924281acba55e59b102d8def"
   license "MIT"
-  version "0.1.1"
+  version "0.1.2"
 
   def install
     bin.install "readstor"
